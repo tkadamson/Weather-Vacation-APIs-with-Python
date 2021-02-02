@@ -130,3 +130,5 @@ dmypy.json
 
 #DS Store
 .DS_store
+
+config.py

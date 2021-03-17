@@ -8,8 +8,6 @@ In this project, starter code was given to generate a list of 1500 lat-long coor
 
 After cleaning the data frame to drop null values, I created scatter plots for each variable (temperature, humidity, cloudiness, and wind speed) vs latitude. Analysis for each scatter plot is in markdown cells in the notebook below each plot. I then split original data frame between the northern and southern hemispheres and generated the same plots again, which also included regression lines. Analysis for each set of scatter plots is in markdown cells in the notebook below each pair.
 
-### Project Summary
-
 ### VacationPy
 
 After collecting and exporting the weather information in the above activity, I used that data with the gmaps module to generate a heat map of humidity across the globe. 

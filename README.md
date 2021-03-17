@@ -1,12 +1,16 @@
 # hw6-weather-apis
 
-### Project Summary - WeatherPy
+## Project Summary | Grade: A+ 
+
+### WeatherPy
 
 In this project, starter code was given to generate a list of 1500 lat-long coordinates which then used the citipy module to match those coordinates to city names. My code begins with using an API request to openweathermap.org to determine several different weather statistics for each city, if they are available. As of the most recent pull, 2/1/2021 at about 12pm, weather data was collected for 620 cities around the world. 
 
 After cleaning the data frame to drop null values, I created scatter plots for each variable (temperature, humidity, cloudiness, and wind speed) vs latitude. Analysis for each scatter plot is in markdown cells in the notebook below each plot. I then split original data frame between the northern and southern hemispheres and generated the same plots again, which also included regression lines. Analysis for each set of scatter plots is in markdown cells in the notebook below each pair.
 
-### Project Summary - VacationPy
+### Project Summary
+
+### VacationPy
 
 After collecting and exporting the weather information in the above activity, I used that data with the gmaps module to generate a heat map of humidity across the globe. 
 

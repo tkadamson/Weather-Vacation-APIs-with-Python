@@ -1,6 +1,6 @@
 # hw6-weather-apis
 
-## Project Summary | Grade: A+ 
+#### GRADE: A+ 
 
 ### WeatherPy
 
